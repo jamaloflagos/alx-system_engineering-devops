@@ -1,3 +1,2 @@
 #!/bin/bash
-mkdir ./tmp
-mkdir ./tmp/first_directory
+mkdir -p ./tmp/first_directory
