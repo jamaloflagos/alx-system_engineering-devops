@@ -1,2 +1,2 @@
 #!/bin/bash
-grep 's/A/Z/g; s/c/e/g'
+grep 's/A/Z/g' | 's/c/e/g'
